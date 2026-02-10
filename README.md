@@ -38,13 +38,13 @@ Integração com backend para consumo de dados de produtos e processamento de pe
 ## 📸 Visualização do Projeto
 
 ### Página Inicial
-![Página Inicial]([https://via.placeholder.com/800x600?text=Página+Inicial](https://github.com/odaniloborges/eplay/blob/main/src/assets/Screenshots/Screenshot_2.png))
+<img src="https://github.com/odaniloborges/eplay/blob/main/src/assets/Screenshots/Screenshot_2.png" alt="Página Inicial">
 
 ### Catálogo de Jogos
-![Catálogo]([https://via.placeholder.com/800x600?text=Catálogo+de+Jogos](https://github.com/odaniloborges/eplay/blob/main/src/assets/Screenshots/Screenshot_1.png))
+<img src="https://github.com/odaniloborges/eplay/blob/main/src/assets/Screenshots/Screenshot_1.png" alt="Catálogo">
 
 ### Carrinho de Compras
-![Carrinho]([https://via.placeholder.com/800x600?text=Carrinho+de+Compras](https://github.com/odaniloborges/eplay/blob/main/src/assets/Screenshots/Screenshot_3.png))
+<img src="https://github.com/odaniloborges/eplay/blob/main/src/assets/Screenshots/Screenshot_3.png" alt="Carrinho">
 
 ---
 
