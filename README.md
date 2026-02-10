@@ -1,46 +1,75 @@
-# Getting Started with Create React App
+# 🎮 EPLAY - Plataforma de Vendas de Jogos
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Status](https://img.shields.io/badge/status-completed-brightgreen?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
+![React](https://img.shields.io/badge/React-18.0+-61dafb?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178c6?style=flat-square&logo=typescript)
 
-## Available Scripts
+## 📋 Descrição
 
-In the project directory, you can run:
+**EPLAY** é uma plataforma moderna de e-commerce especializada na venda de jogos digitais e físicos. O projeto foi desenvolvido com foco em oferecer uma experiência de usuário intuitiva e responsiva, combinando as melhores práticas de desenvolvimento frontend.
+
+### ✨ Funcionalidades Principais
+
+- 🛒 **Catálogo Dinâmico**: Visualização completa de jogos com filtros avançados
+- 🛍️ **Carrinho de Compras**: Gerenciamento intuitivo de itens com cálculo automático de totais
+- 💳 **Processo de Checkout**: Fluxo seguro e simplificado para finalizar compras
+- 🎯 **Categorização**: Organização de produtos por gênero, plataforma e popularidade
+- 📱 **Design Responsivo**: Interface adaptável para todos os dispositivos
+- ⚡ **Performance Otimizada**: Carregamento rápido e experiência fluida
+
+### 🛠️ Implementação Técnica
+
+#### React & TypeScript
+Utilização de componentes funcionais com hooks para criar uma arquitetura escalável e mantível. TypeScript garante segurança de tipos e reduz erros em tempo de desenvolvimento.
+
+#### State Management
+Gerenciamento de estado global para controlar carrinho de compras, filtros e autenticação de forma eficiente.
+
+#### Styled Components & Responsividade
+Estilização dinâmica e CSS-in-JS para componentes isolados. Media queries garantem perfeita adaptação em diferentes resoluções de tela.
+
+#### API Integration
+Integração com backend para consumo de dados de produtos e processamento de pedidos.
+
+---
+
+## 📸 Visualização do Projeto
+
+### Página Inicial
+![Página Inicial]([https://via.placeholder.com/800x600?text=Página+Inicial](https://github.com/odaniloborges/eplay/blob/main/src/assets/Screenshots/Screenshot_2.png))
+
+### Catálogo de Jogos
+![Catálogo]([https://via.placeholder.com/800x600?text=Catálogo+de+Jogos](https://github.com/odaniloborges/eplay/blob/main/src/assets/Screenshots/Screenshot_1.png))
+
+### Carrinho de Compras
+![Carrinho]([https://via.placeholder.com/800x600?text=Carrinho+de+Compras](https://github.com/odaniloborges/eplay/blob/main/src/assets/Screenshots/Screenshot_3.png))
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- 📝 **Linguagens**: TypeScript, HTML5, CSS3
+- 🔧 **Tecnologias**: React, React Router DOM, Styled Components, Furmik, Yup, Cypress
+- 🛠️ **Ferramentas**: Create React App, npm, Git, Vercel
+- 📚 **Metodologias**: Component-Based Architecture, Responsive Design, Clean Code
+
+## 📦 Scripts Disponíveis
 
 ### `npm start`
+Inicia o servidor de desenvolvimento na porta 3000.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```bash
+npm start
+````
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
 
-### `npm test`
+## 🔗 Danilo Borges
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+LinkedIn: [https://www.linkedin.com/in/odaniloborges](https://www.linkedin.com/in/odaniloborges/)
 
-### `npm run build`
+Github: [https://github.com/odaniloborges](https://github.com/odaniloborges)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Email: daniloborges.dev@gmail.com
